@@ -1,0 +1,1 @@
+Initialize a Git Repository and Perform Basic Git Operations – Create a StudentManagement project and demonstrate repository initialization, file tracking, staging, committing, modifying files, viewing commit history and comparing changes.
